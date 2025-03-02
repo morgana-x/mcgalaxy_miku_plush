@@ -2,4 +2,4 @@
 
 Requires https://github.com/NotAwesome2/MCGalaxy-CustomModels
 
-Assets sourced from https://modrinth.com/mod/miku-plushies
+Assets sourced from https://modrinth.com/mod/miku-plushies made by the user 4any
